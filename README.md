@@ -126,6 +126,6 @@ If things goes well, this section should automatically be replaced by a list of 
 ## Support Me On Patreon!
 
 <div align="center">
-<img src="https://res.cloudinary.com/dgnydn/image/upload/v1653912407/Digital-Patreon-Wordmark_FieryCoral_snirwi.png" align="center" />
+<a href="https://patreon.com/doganaydin"><img src="https://res.cloudinary.com/dgnydn/image/upload/v1653912407/Digital-Patreon-Wordmark_FieryCoral_snirwi.png" align="center" /></a>
 </div>
 
