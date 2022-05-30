@@ -108,8 +108,12 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [Geliştiriciler İçin Faydalı Web Siteleri Ve Araçlar](https://dogan.rocks/gelistiriciler-icin-faydali-web-siteleri-ve-araclar/)
+- [WordPress Çok Yavaş – Daha Hızlı WordPress Siteleri İçin 8 Kural](https://dev.to/dgnydn/wordpress-cok-yavas-daha-hizli-wordpress-siteleri-icin-8-kural-lj3)
+- [WordPress Çok Yavaş – Daha Hızlı WordPress Siteleri İçin 8 Kural](https://dogan.rocks/daha-hizli-wordpress-siteleri-icin-8-kural-wordpress-cok-yavas/)
+- [Top 10 SEO Tools To Use In WordPress](https://dogan.rocks/top-10-seo-tools-to-use-in-wordpress/)
+- [Hazır Rent A Car Sitesi – Bandırma Rent A Car](https://dogan.rocks/rent-a-car-sistemi-bandirma-rent-a-car/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
