@@ -123,8 +123,8 @@ If things goes well, this section should automatically be replaced by a list of 
 </div>  
 
 <div align="center">
-## Support Me On Patreon!
-<img src="https://res.cloudinary.com/dgnydn/image/upload/v1653912407/Digital-Patreon-Wordmark_FieryCoral_snirwi.png" align="center />
+  <div align="center"><b>Support Me On Patreon!</b></div>
+  <img src="https://res.cloudinary.com/dgnydn/image/upload/v1653912407/Digital-Patreon-Wordmark_FieryCoral_snirwi.png" align="center />
 </div>
 
 <br/>  
