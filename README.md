@@ -7,8 +7,8 @@ Senior Web Developer
 Experienced developer with a passion for building great products. Love to challenge myself and take on new opportunities.
 
 * 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [Website](http://doganaydin.org)
-* ✉️  You can contact me at [dogan1aydin@gmail.com](mailto:dogan1aydin@gmail.com)
+* 🖥️  See my portfolio at [doganaydin.org](http://doganaydin.org)
+* ✉️  You can contact me at [dogan@doganaydin.org](mailto:dogan@doganaydin.org)
 
 <a href="https://www.twitter.com/doganbuilds" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/doganbuilds?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
