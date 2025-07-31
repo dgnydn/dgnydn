@@ -7,11 +7,11 @@ Senior Web Developer
 Experienced developer with a passion for building great products. Love to challenge myself and take on new opportunities.
 
 * 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [dogan.bio](https://dogan.bio)
+* 🖥️  See my portfolio at [www.doganaydin.net](https://www.doganaydin.net)
 * ✉️  You can contact me at [dogan@hey.com](mailto:dogan@hey.com)
 
 <a href="https://www.twitter.com/doganbuilds" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/codewithdogan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/doganbuilds?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
@@ -45,4 +45,4 @@ src="https://img.shields.io/twitter/follow/codewithdogan?logo=twitter&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/dgnydn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dgnydnbnd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/do%C4%9Fan-ayd%C4%B1n-641800292/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/codewithdogan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@doganaydin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/dgnydn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/doganaydinnet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/do%C4%9Fan-ayd%C4%B1n-641800292/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/doganbuilds" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@doganaydin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
