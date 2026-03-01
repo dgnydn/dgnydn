@@ -5,7 +5,7 @@ I like building tools that stay **small**, **deterministic**, and **operationall
 
 - 🇹🇷 Based in Turkey
 - 🌐 Portfolio: https://www.doganaydin.net  
-- ✉️ Reach me: dogan@hey.com  
+- ✉️ Reach me: dogan@hey.com
 - 💼 LinkedIn: https://www.linkedin.com/in/do%C4%9Fan-ayd%C4%B1n-641800292 
 
 ---
