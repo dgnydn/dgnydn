@@ -4,7 +4,7 @@ Principal/Staff-minded backend engineer focused on **distributed systems**, **cl
 I like building tools that stay **small**, **deterministic**, and **operationally boring**.
 
 - 🇹🇷 Based in Turkey
-- 🌐 Portfolio: https://www.doganaydin.net  
+- 🌐 Portfolio: https://www.doganaydin.net
 - ✉️ Reach me: dogan@hey.com
 - 💼 LinkedIn: https://www.linkedin.com/in/do%C4%9Fan-ayd%C4%B1n-641800292 
 
