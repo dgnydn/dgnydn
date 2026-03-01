@@ -27,7 +27,7 @@ I’m drawn to problems where **correctness, latency, and operability** matter:
 Repo: https://github.com/dgnydn/retcon
 
 ### 🧪 dlqautopsy — dead-letter forensics (Go)
-A CLI-first dead letter “autopsy” engine: ingests DLQ messages, groups failures **deterministically**, reconstructs timelines, and produces actionable reports — **offline-first** with local SQLite.  
+A CLI-first dead letter “autopsy” engine: ingests DLQ messages, groups failures **deterministically**, reconstructs timelines, and produces actionable reports — **offline-first** with local SQLite.
 Repo: https://github.com/dgnydn/dlqautopsy
 
 ### 🩺 Ferris Pulse — service health checker (Rust)
