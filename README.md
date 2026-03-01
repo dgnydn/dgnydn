@@ -55,7 +55,7 @@ Repo: https://github.com/dgnydn/nmap-tui
 
 ## Writing & notes
 
-- Portfolio / blog: https://www.doganaydin.net 16  
+- Portfolio / blog: https://www.doganaydin.net
 - I like writing “why we didn’t build a platform” style notes: fewer moving parts, more clarity.
 
 ---
